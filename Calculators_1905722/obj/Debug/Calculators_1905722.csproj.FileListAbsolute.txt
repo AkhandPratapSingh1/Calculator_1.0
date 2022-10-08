@@ -1,0 +1,10 @@
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\bin\Debug\Calculators_1905722.exe.config
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\bin\Debug\Calculators_1905722.exe
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\bin\Debug\Calculators_1905722.pdb
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\obj\Debug\Calculators_1905722.csproj.AssemblyReference.cache
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\obj\Debug\Calculators_1905722.Form1.resources
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\obj\Debug\Calculators_1905722.Properties.Resources.resources
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\obj\Debug\Calculators_1905722.csproj.GenerateResource.cache
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\obj\Debug\Calculators_1905722.csproj.CoreCompileInputs.cache
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\obj\Debug\Calculators_1905722.exe
+C:\Users\p\source\repos\Calculators_1905722\Calculators_1905722\obj\Debug\Calculators_1905722.pdb
